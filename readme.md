@@ -1,0 +1,1 @@
+1. Install the dependencies ```npm install``` and Run ```npm run dev``` to start the server and see the ouptuts of the transaction parsing using serialization library. 
